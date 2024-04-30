@@ -1,3 +1,3 @@
 <?php
 
-header('location: '. '/ctrl/login/login-display.php');
+header('location: ' . '/ctrl/login/welcome.php');

@@ -1,5 +1,5 @@
 -- Mentionne le nom de la base de données à utiliser pour exécuter les commandes SQL qui suivent.
-USE `430-php-login-YAO`;
+USE `430-php-login-HTR`;
 
 INSERT INTO role (id, code, label ) VALUES
      (10, 'V', 'Visa')

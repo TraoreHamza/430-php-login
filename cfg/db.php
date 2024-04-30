@@ -4,6 +4,6 @@
 $dbConfig[] = [];
 $dbConfig['host'] = '127.0.0.1';
 $dbConfig['port'] = '4000';
-$dbConfig['dbname'] = '430-php-login-YAO';
+$dbConfig['dbname'] = '430-php-login-HTR';
 $dbConfig['user'] = 'root';
 $dbConfig['password'] = '';
