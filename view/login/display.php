@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    include $_SERVER['DOCUMENT_ROOT'] . '/wiev/partial/header.php'; ?>
+    include $_SERVER['DOCUMENT_ROOT'] . '/view/partial/header.php'; ?>
     <main>
         <fieldset>
             <legend>Authentification</legend>

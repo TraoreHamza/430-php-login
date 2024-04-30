@@ -7,6 +7,6 @@
     <title>Login</title>
 </head>
 <body>
-<?php include $_SERVER['DOCUMENT_ROOT'] . '/wiev/partial/header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/view/partial/header.php'; ?>
 </body>
 </html>
